@@ -8,7 +8,7 @@ interface SidebarProps {
 export default function Sidebar({ isOpen, onClose }: SidebarProps) {
   return (
     <div
-      className={`max-sm:fixed top-0 left-0 h-screen bg-gradient-to-b from-gray-800 via-gray-900 to-gray-800 text-white z-50 transform ${
+      className={`max-sm:fixed max-sm:h-screen top-0 left-0 bg-gradient-to-b from-gray-800 via-gray-900 to-gray-800 text-white z-50 transform ${
         isOpen ? "translate-x-0" : "-translate-x-full"
       } transition-transform duration-300 lg:translate-x-0 w-64`}
     >
