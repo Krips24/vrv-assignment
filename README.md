@@ -27,7 +27,7 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/Krips24/vrv-assignment
-   cd role-management-app
+   cd vrv-assignment
 
    ```
 
