@@ -30,8 +30,9 @@ export default function Home() {
             <p className="mt-12 text-gray-600">
               This app is made by Krapansh Shrivastava, a full-stack developer.
               Currently I am working as a Full Stack Develope at IIT Indore,
-              India.
+              India. 
             </p>
+
 
             <p className="mt-2 text-gray-600">
               Happy to complete the project. Thanks for using this app.
@@ -39,7 +40,7 @@ export default function Home() {
 
             <p className="mt-2 text-gray-600">
               If you liked this app, please feel free to contact me at
-              krapansh.work@gmail.com or +91 6281284310
+              krapansh.work@gmail.com or +91-6281284310
             </p>
           </div>
         </section>
